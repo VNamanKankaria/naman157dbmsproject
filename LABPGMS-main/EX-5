@@ -12,7 +12,7 @@ DESC DEPT;
 
 ## Q3 Revoke the permission and tell them to try for accessing your table.
 ```
-REVOKE SELECT, INSERT, UPDATE ON DEPT FROM RA211028010146;
+REVOKE SELECT, INSERT, UPDATE ON DEPT FROM RA211028010157;
 ```
 
 # TCL
