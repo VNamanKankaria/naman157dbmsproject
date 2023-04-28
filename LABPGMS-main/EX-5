@@ -2,7 +2,7 @@
 # DCL
 ## Q1 Give grant permission to your neighbor for any one of your tables. Tell him/her to access (modify the data) your table from their login.
 ```SQL
-GRANT SELECT, INSERT, UPDATE ON DEPT TO RA211028010146;
+GRANT SELECT, INSERT, UPDATE ON DEPT TO RA211028010157;
 ```
 
 ## Q2 Check the table again from your login. Observe the inference.
